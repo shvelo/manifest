@@ -54,5 +54,8 @@
 
   <!-- apps -->
   <project path="uefi/apps/EFIDroidUi" name="efidroid/uefi_apps_EFIDroidUi" />
+  
+  <!-- devices -->
+  <project path="device/lumia/52X" name="shvelo/device_lumia_52X" remote="private" />
 
 </manifest>
