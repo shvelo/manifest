@@ -33,6 +33,7 @@
   <project path="modules/mkbootimg" name="efidroid/modules_mkbootimg" />
   <project path="modules/multiboot" name="efidroid/modules_multiboot" />
   <project path="modules/tracy" name="efidroid/modules_tracy" />
+  <project path="modules/libboot" name="efidroid/modules_libboot" />
   <project path="modules/util-linux" name="pub/scm/utils/util-linux/util-linux" remote="kernel" revision="refs/heads/stable/v2.27" />
   <project path="modules/busybox" name="busybox" remote="busybox" revision="refs/heads/1_24_stable" />
   <project path="modules/selinux" name="SELinuxProject/selinux" revision="android-m" />
@@ -42,7 +43,6 @@
   <project path="modules/f2fs-tools" name="pub/scm/linux/kernel/git/jaegeuk/f2fs-tools" remote="kernel" revision="refs/tags/v1.6.0" />
   <project path="modules/libfuse" name="libfuse/libfuse" revision="refs/tags/fuse_2_9_5" />
   <project path="modules/squirrel" name="albertodemichelis/squirrel" />
-  <project path="modules/libboot" name="efidroid/libboot" />
 
   <!-- UEFI -->
   <project path="uefi/edk2" name="efidroid/edk2" />
